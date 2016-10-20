@@ -1,0 +1,8 @@
+introduce el primer numero
+2
+introduce el segundo numero
+1
+introduce el tercer numero
+7
+El tercer numero es mayor
+BUILD SUCCESSFUL (total time: 4 seconds)
